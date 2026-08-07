@@ -1,0 +1,13 @@
+SOC Detection Lab
+=================
+
+Detection-as-code content for the plaquia-labs SOC lab.
+
+Detections included:
+  * Kerberoasting - RC4 Service Ticket Requested   (T1558.003)
+  * Password Spray - Single Source Many Accounts   (T1110.003)
+
+Do not edit rules in the Splunk UI. Content is deployed from Git via
+'make deploy' and any UI edits will be overwritten on the next deploy.
+
+Source: https://github.com/archietech23/soc-detection-lab
