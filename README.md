@@ -90,8 +90,8 @@ If you only want to look at the detections, open the two files under [`detection
 
 ## Author
 
-Kristopher Archie Plaquia - Vancouver, BC
-[LinkedIn](https://www.linkedin.com/in/archietech23/)
+Kristopher Archie - Vancouver, BC
+[LinkedIn](https://www.linkedin.com/in/kcplaquia/)
 
 ## License
 
