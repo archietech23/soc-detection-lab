@@ -1,0 +1,7 @@
+# Share saved searches globally so they run on the correct index/DC data.
+[savedsearches]
+export = system
+
+[]
+access = read : [ * ], write : [ admin ]
+export = system
